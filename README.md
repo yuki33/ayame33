@@ -3,4 +3,4 @@ Flaskを利用しています
 
 これをpythonanywhereを使ってサーバーにデプロイすることで一般公開することもできました
 
-コードはhttps://qiita.com/cvusk/items/5506f843bb375fca1f97を参考にしています
+コードはhttps://qiita.com/cvusk/items/5506f843bb375fca1f97　を参考にしています
